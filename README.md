@@ -6,6 +6,7 @@
 模仿qq未读消息的气泡拖拽效果
 
 效果图如下
+
 ![效果图](http://7xrofo.com1.z0.glb.clouddn.com/bubbleView.gif)
 
 # 使用
